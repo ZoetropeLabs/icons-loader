@@ -23,7 +23,7 @@
   "homepage": "https://github.com/tomgrooffer/icons-loader#readme",
   "dependencies": {
     "enhanced-resolve": "^0.9.1",
-    "gulp-iconfont": "^5.0.1",
+    "gulp-iconfont": "git+https://github.com/ZoetropeLabs/gulp-iconfont.git",
     "loader-utils": "^0.2.12",
     "merge": "^1.2.0",
     "vinyl": "^1.1.0",
